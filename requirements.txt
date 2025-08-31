@@ -1,0 +1,17 @@
+streamlit-autorefresh
+utils
+# Core dependencies
+requests
+python-dotenv
+streamlit
+pandas
+plotly
+
+# Database (SQLAlchemy ORM + drivers)
+SQLAlchemy
+psycopg2-binary
+
+
+# Optional: For Jupyter notebooks (exploration)
+jupyter
+ipykernel
